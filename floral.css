@@ -1,0 +1,60 @@
+*{
+	font-family: KoHo;
+}
+#categories{
+	padding: 20px;
+
+}
+.categories_{
+	padding: 20px;
+	text-align: center;
+	transition: 1s;
+}
+.category_content{
+	margin-top: 15px;
+	padding: 15px;
+}
+
+
+
+
+.categoryrow{
+	margin-top: 30px;
+}
+/gallery/
+#Gallery{
+	margin-top: 20px;
+	padding: 15px;
+}
+.gallery-container{
+	text-align: center;
+	margin-top: 20px;
+}
+/button login signup/
+.buttonLOGsign{
+	margin-top:100px ;
+}
+.btn{
+	border-radius: 12px;
+}
+/footer/
+footer{
+	margin-top: 50px;
+	background-color: #414a4c;
+	color:#5f9ea0 ;
+	padding: 30px;
+}
+.footer_link{
+color: #5f9ea0;
+text-decoration: none;
+}
+.footer_link:visited{
+color: #78866b;
+}
+.footer_link:hover{
+color:#738678
+}
+ul{
+	list-style-type: none;
+}
+/navbar/
